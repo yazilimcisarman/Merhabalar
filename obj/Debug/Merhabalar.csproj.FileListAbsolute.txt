@@ -1,0 +1,7 @@
+D:\Yazılımcı Sarman\Projeler\Merhabalar\bin\Debug\Merhabalar.exe.config
+D:\Yazılımcı Sarman\Projeler\Merhabalar\bin\Debug\Merhabalar.exe
+D:\Yazılımcı Sarman\Projeler\Merhabalar\bin\Debug\Merhabalar.pdb
+D:\Yazılımcı Sarman\Projeler\Merhabalar\obj\Debug\Merhabalar.csproj.AssemblyReference.cache
+D:\Yazılımcı Sarman\Projeler\Merhabalar\obj\Debug\Merhabalar.csproj.CoreCompileInputs.cache
+D:\Yazılımcı Sarman\Projeler\Merhabalar\obj\Debug\Merhabalar.exe
+D:\Yazılımcı Sarman\Projeler\Merhabalar\obj\Debug\Merhabalar.pdb
